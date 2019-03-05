@@ -1,0 +1,19 @@
+{
+  "name": "@disnetwork/network",
+  "version": "0.0.1",
+  "description": "Smart way to manage the HTTP requests from bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DisNetwork/network.git"
+  },
+  "author": "iHDeveloper",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/DisNetwork/network/issues"
+  },
+  "homepage": "https://github.com/DisNetwork/network#readme"
+}
